@@ -1,0 +1,9 @@
+{
+  "caseSha256": "b251025536069c86f5468751993df42b71fd2f489788d9000e2da55b7e596d77",
+  "baselinePromptSha256": "044b97ab13a8ca0cbb33c868f7d064ec5f751e2b2bf200518c77cbb2be1b5ee9",
+  "purpose": "Matched decision and returned-code probes. Not a production reliability or reasoning-effort guarantee.",
+  "skillSha256": "cf9ebf02fb646e5e02c46c040681d35a7409b1d000329af0d65b56ec5dace1e6",
+  "withSkillPromptSha256": "55714add46b4121639c8d81ddd576f7fe699b755cd33d09a3e827ac7928be614",
+  "revision": 2,
+  "repairReason": "Clarify explicit constraints and prohibit unsupported timeline/impact estimates after one model introduced an unprovided one-day slip."
+}
