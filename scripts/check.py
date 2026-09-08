@@ -50,6 +50,9 @@ def main() -> int:
             fail("frontmatter description must explain behavior and activation", failures)
         body = frontmatter.group("body")
 
+    if not body.strip():
+        fail("SKILL.md needs nonempty instructions", failures)
+
     required_readme_text = (
         ".agents/skills",
         ".claude/skills",

@@ -55,7 +55,7 @@ The checker uses only the Python standard library:
 python3 scripts/check.py
 ```
 
-It validates the skill metadata, decision examples, installation instructions, and repository links.
+It validates the skill metadata, nonempty instructions, installation instructions, and repository links.
 
 ## Files
 

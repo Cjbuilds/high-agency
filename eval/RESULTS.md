@@ -18,7 +18,7 @@ Python checks cover empty input, missing customers, repeated IDs, multiple order
 python3 eval/check_cases.py
 ```
 
-[Cases](cases.json), [final outputs and route metadata](results.json), and [frozen hashes](freeze.json) are included. Fable ran as exact `claude-fable-5-1` through the Claude subscription with observed first-party identity and no tools. Astra used the configured `gpt-6-astra` native Codex route; separate provider runtime receipts and usage were unavailable.
+[Baseline prompt](baseline.prompt.txt), [skill prompt](with-skill.prompt.txt), [cases](cases.json), [final outputs and route metadata](results.json), and [frozen hashes](freeze.json) are included. Fable ran as exact `claude-fable-5-1` through the Claude subscription with observed first-party identity and no tools. Astra used the configured `gpt-6-astra` native Codex route; separate provider runtime receipts and usage were unavailable.
 
 ## One repair, kept visible
 

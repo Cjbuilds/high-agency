@@ -92,7 +92,8 @@
         "web_fetch_requests": 0,
         "web_search_requests": 0
       }
-    }
+    },
+    "promptSha256": "044b97ab13a8ca0cbb33c868f7d064ec5f751e2b2bf200518c77cbb2be1b5ee9"
   },
   {
     "model": "Fable 5.1",
@@ -187,7 +188,8 @@
         "web_fetch_requests": 0,
         "web_search_requests": 0
       }
-    }
+    },
+    "promptSha256": "55714add46b4121639c8d81ddd576f7fe699b755cd33d09a3e827ac7928be614"
   },
   {
     "model": "GPT-6 Astra",
@@ -218,7 +220,8 @@
       "runtimeAttestation": null,
       "usage": null,
       "note": "Configured native route; provider usage/runtime receipts are not exposed."
-    }
+    },
+    "promptSha256": "044b97ab13a8ca0cbb33c868f7d064ec5f751e2b2bf200518c77cbb2be1b5ee9"
   },
   {
     "model": "GPT-6 Astra",
@@ -249,6 +252,7 @@
       "runtimeAttestation": null,
       "usage": null,
       "note": "Configured native route; provider usage/runtime receipts are not exposed."
-    }
+    },
+    "promptSha256": "55714add46b4121639c8d81ddd576f7fe699b755cd33d09a3e827ac7928be614"
   }
 ]
